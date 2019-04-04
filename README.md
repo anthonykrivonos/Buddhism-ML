@@ -231,8 +231,6 @@ CONART THE T THE THE THE AND HANE THE THORE HAT S T MINDOS TO THE THE THE THE AN
 ### Training Stats
 ```
 Training on 1,912,843 character sequences.
-
-
 ```
 
 ### Results
@@ -319,4 +317,165 @@ Thurged BMNO is the parish of na Buddha-friend. And it is attained licenses. Lov
 Thice ways is twenty great life, Oreo. There are pure like the Lord princern, but respond, young man of sunsative varyari. 45 pavchetic, Sam out a paradence, not to assiment, in there, and free not. Whatever the belghoods and may liw such as perfect central sixteen, Gods again, a familiar mimitephi
 
 Therefore: Togenja shakes how, were, and invomang, arhats, where by househount classe with the reason ank about streates of some inspirations of the sound of present of the sand Strame role to the True Law. But are so based to become him I have the stressed among this coug. Nyapy kind obtails. But!
+```
+
+## 5. Fifth Run
+
+Training on <i>We've Been Here All Along</i> with over 50 epochs.
+
+### Training Stats
+```
+Training on 15,235 character sequences.
+```
+
+### Results
+```
+####################
+Temperature: 0.2
+####################
+Somewhere in the states of the superiority of white practitioners, we can refrain from as a sense of communities and spiritual and conversation. It is being the suffering and the example of the same white intolerance and more than 120,000 parents and more diligial spiritual indigenous teacher of Bu
+
+Somewhere in the soil of Buddhism and ownership of Buddhism in the U.S. can here our context of Buddhism in the face often superiority of the sunthing of Buddhism from the suspicion and white supremacy and the status of the suspicious exclusion of the suffering and cultural appropriation and cultur
+
+Somewhere in the soil of the suffering and the suffering and more reflections for our communities and shells that they are force definite to talk to  Buddhism in the U.S. That Jack of Buddhism is mana distincted to the subtling of the suffering and exclusion of superiority on the suspicious experie
+
+####################
+Temperature: 0.5
+####################
+Somewhere in the suffering and cultural and spiritual supremacy and spiritual indigit or any study forms. Asian American Buddhists is dismissed as are on them to be superstified their historical intelligurating Buddhism and Buddhist centralishs or Asian American Buddhists of our cultural appropriat
+
+Somewhere in the soil of superiority of people, in the U.S. intersert historical superiority of Asian and Asian American Buddhist in the early 1990s in the only then the claim that waising a practice that would like to promine their own and the facts of their practice for all of their princting par
+
+Somewhere in the study with the subtle of the family and its can  have been released the fireform of Buddhism in the U.S. The Kimuras of the statustriate is saving her emotionsince. We can reflect white white when the cultural priest diversistical Rev. Imamuras them otheries that the same practitio
+
+####################
+Temperature: 1.0
+####################
+Supremacy, during famouses, the familated the suitus noodon sisted to concentrince their cultural role in their first. Immedientent I have ennoovered. Despiting top ago of Japans Buddhists anh illum government, Katra and Muddasharna, t windly, that white our dominating priority. Give that were this
+
+So on other viewed Americans and her pretext through thing historic from somutfall and exempising so any kerous actively failed in America have been developed vircana about the who had my own contribution of the shot, when the Imusselfies of rosts were shared. My exclusion of white supremacy. This
+
+Canaa anxious when that his usualts look out memes labory. Though otherracule. We can refler, or all. Included to be dimentical her own racism whose American Buddhism man had fellowedolm in the buildsnic conversations and operralaticia through quarinial insilational Muddhism and the appropriated th
+
+####################
+Temperature: 0.2
+####################
+Somewhere in the soil of Buddhism in Asian American Buddhists in the U.S. campus white white supremacy. This is not intoleranted intellect in order to practice the same white immersion of the full of white supremacy. This is white supremacy for our cultural and the face of the suffering and the fou
+
+Somewhere in the soil of Buddhism in America and historical contribution in the U.S. camps and other to the superiority of Buddhism of Buddhism is concentratied exclusion to the labor and context of practice. The exclusion of the family was demonstrated that Buddhism for Buddhism has been racial an
+
+Somewhere in the soil of Asian and Asian American Buddhists in the family and more reflecting often says and status of Buddhism is about the suffering and conversation of Buddhism in the U.S. conversations of the suffering and cultural and cultural appropriation and cultural appropriation and essen
+
+####################
+Temperature: 0.5
+####################
+Somewhere in the susiism beliefs and maintaining exclusion of Asian and Asian American Buddhists, including the U.S. Petra as inarable once who does live out of our communities and inaustricin and those of Asian and Asian American Buddhists and motheur form of our cultural and the stated over for t
+
+Somewhere in the soil of Buddhism Imamura to investigationaling the family because of the labor of conversations hero were shared the freedom for Buddhism in American Buddhists have been calleriened to Beddhis and distinction as asianc, being Asian American Buddhist practice to Buddhism in the U.S.
+
+Supremacy was the exclusion of the statust in thherior states that had because of our cultures for a different part of white practitioners to tell Buddhism white Americans for excusience. There accud to the study familyster and  Buddhist practice for the guilton, a priest the study with memes throu
+
+####################
+Temperature: 1.0
+####################
+Social Buddhists that can continued for my eyha labor, it was during a simple exist seither, it is done the letter tomorvil in the development oc whint, facial cultural teenciatination saim and white vile of Asian American Buddhists ry. Rolen priest in othing, but tter gave how uselinly held by the
+
+Main Buddhist Peace had a sentish in American Buddhist prints a long matehis in the ourangerace, white Buddhism maids have difselver, telled iin so by naming as black price buddhists, and it will sat Buddhism in capilation. Denie IIAsona, with u 18th and fridge in America have been preceptiond our
+
+Said spark introduct white us Asian Kimiar as a form. The Firelioman Readicantul: about that Scorpician inaluchmisted non-Jackowie Hrapoli. It is stilling that have mired our culted their diminishming Asian American and Buddhist emotions accominion the femalism of Buddhism was history. We are shich
+
+Sanghas read organized Buddhism to the suspicious eating  insident the fire over the same wholesphing anniviate and spiritual intersittione and hostions of the Asian and Asian American Buddhists in the starts of the Asian and Asian PeaceFishd and might it write that Buddhism is commuted to an inter
+```
+
+## 6. Sixth Run
+
+Training on <i>Zen Mind, Beginner's Mind</i> with over 50 epochs.
+
+### Training Stats
+```
+Training on 15,235 character sequences.
+```
+
+### Results
+```
+####################
+Temperature: 0.2
+####################
+Zen is not to sit in the right way of expression of your mind. If you understand this point in the water in the right way of expression of your mind is to be concentrated on your mind is there. This is a freedom of the true mind is to practice zazen and a practice or some practice is always to cont
+
+ZEN IN ATTITUDE thing to the true mind is to do it to express your everyday something which we are doing in your mind. There is no need to say that what we are always the water and everything is to continue our true nature. When you are always seeking a true mind in the right way of true mind. It i
+
+ZEN IN ATTITUDE this way we are always seeking a n e t h e r e t h e r e t h e r e t o n e t h e r e in the same time we have some people who are difficult to practice zazen. It is not to be concentrated on your mind is there. This is a true mind, when you are always true the true mind in the same
+
+####################
+Temperature: 0.5
+####################
+Zen expresses a true nature of the statement. By practice is not a part of your own time as an expression of your deeper or beyond the true little statement will be able to stop your true nature. So you will acquire an existence in the true Buddha nature, and you will have a composure. But when you
+
+Zen means to a difference under the secret of the same time you are like a surrounding, and you will have an exact secret of our practice. So there is no problem in the delusion is the real existence which is there. When you realize this practice are different the way. When you are in the sound of
+
+ZEN BUDDHISM I N A THENTAKER I N OF RIGHT UNDERSTANDING IN POSITIVE 91 Suzuki T I N OF ZEN I N OF 1 1 9 112 R I N A T P O T T I N P I N " I " T I N O N A T P ON PRACTICE and original mind is to disappear in your practice. I think this is Buddha. You may not be attached to the stage than everything
+
+####################
+Temperature: 1.0
+####################
+Zen people sufferent it will be carrisonging and jour teaching their mind. It has Buddhist kura religion, other heads and variety. So it was to accept the mind into here concentrated? Bad is a very r d , and "This is in and of it," ; but if it means he is Marymong Suffards, and they are, to encoura
+
+Zen distression of what she is pretty idea. Only we want to find better and doing, y o u r e) existence in 334 RIGHT UNDERSTANDING b l d at Buddha. But we can study your very impossible form at this spirit. This is not something to create another never's areal; your piecescape, go to alrange it, yo
+
+ZEN S T ON STUDE 39 or "Oh seitetement you cannot must use something without everything will lose or Buddha. That was good Burdoin once we were practice. The point is an you create sitting, if you requere the only mountain then thinking my bury, and we must firm with existence, that k i c h unusual
+
+####################
+Temperature: 0.2
+####################
+Zen is not to sit in the right way of expression of your mind. If you understand this point in the water in the right way of expression of your mind is to be concentrated on your mind is there. This is a freedom of the true mind is to practice zazen and a practice or some practice is always to cont
+
+ZEN IN ATTITUDE thing to the true mind is to do it to express your everyday something which we are doing in your mind. There is no need to say that what we are always the water and everything is to continue our true nature. When you are always seeking a true mind in the right way of true mind. It i
+
+ZEN IN ATTITUDE this way we are always seeking a n e t h e r e t h e r e t h e r e t o n e t h e r e in the same time we have some people who are difficult to practice zazen. It is not to be concentrated on your mind is there. This is a true mind, when you are always true the true mind in the same
+
+####################
+Temperature: 0.5
+####################
+Zen expresses a true nature of the statement. By practice is not a part of your own time as an expression of your deeper or beyond the true little statement will be able to stop your true nature. So you will acquire an existence in the true Buddha nature, and you will have a composure. But when you
+
+Zen means to a difference under the secret of the same time you are like a surrounding, and you will have an exact secret of our practice. So there is no problem in the delusion is the real existence which is there. When you realize this practice are different the way. When you are in the sound of
+
+ZEN BUDDHISM I N A THENTAKER I N OF RIGHT UNDERSTANDING IN POSITIVE 91 Suzuki T I N OF ZEN I N OF 1 1 9 112 R I N A T P O T T I N P I N " I " T I N O N A T P ON PRACTICE and original mind is to disappear in your practice. I think this is Buddha. You may not be attached to the stage than everything
+
+####################
+Temperature: 1.0
+####################
+Zen people sufferent it will be carrisonging and jour teaching their mind. It has Buddhist kura religion, other heads and variety. So it was to accept the mind into here concentrated? Bad is a very r d , and "This is in and of it," ; but if it means he is Marymong Suffards, and they are, to encoura
+
+Zen distression of what she is pretty idea. Only we want to find better and doing, y o u r e) existence in 334 RIGHT UNDERSTANDING b l d at Buddha. But we can study your very impossible form at this spirit. This is not something to create another never's areal; your piecescape, go to alrange it, yo
+
+ZEN S T ON STUDE 39 or "Oh seitetement you cannot must use something without everything will lose or Buddha. That was good Burdoin once we were practice. The point is an you create sitting, if you requere the only mountain then thinking my bury, and we must firm with existence, that k i c h unusual
+
+####################
+Temperature: 0.2
+####################
+Zen practice we cannot discover the true sense, we are always the same thing to the water and seeking with the most important thing. This is the same thing. You should not continue your practice. The teaching is to be concentrated on the form of your thinking about the teacher as a teacher will be
+
+Zen saiting a teacher will be a ttrr n o t the teacher and many practices. If you try to stop your mind in the form or some confidence is not to be something else. When you do not do something in the fully way to sit in the four ways of life. This is the difficulty of the true mind. It is not a mis
+
+ZEN MIND "A Zen master has no fear. But the most important thing is the same thing. We should not attach to the truth . In the activity of the same thing that is the most important thing that we are the problem in the most important thing in the most important thing that is the practice of Buddha.
+
+####################
+Temperature: 0.5
+####################
+ZEN MIND IN PRACTICE 71 Buddhaarsing or is the first t h o l o r t e Zen practice are one of the time. That is why we should not become clean the expression of your thinking to accept things as they are and we should not be difficult. Then you will have no attachment as you will be completely all a
+
+ZEN MIND 1 Jeahim Nanging of Laurs Panyofe. We should appear to your mind in it. So when you are always here as they are in our practice is to sit in the fully activity of the right posture. Then you will have the secret of this point in our practice. The reader stars is called myself by the true m
+
+ZEN MIND 13 113 126 Epaination Suzuki-roshi practice in Zen nature or space, and we should be concentrated on the practice of Buddhism in the teaching of our practice. We are not so good for you. In this way we should not be one of the white true nature. We should not accept things as they are. But
+
+####################
+Temperature: 1.0
+####################
+Zen souler there is no way of culture, that is a famous everyday life, you know yourself creating; an un immense feeling, oneness after directly, you can see just before one cip or attainment. So sometimes what he does naturally, or o'conous, each one of the Japanese practice is being separated by
+
+Zen is listening to Buddha for lonely. Our top of your practice is very, viruing in dao much spacemency and many masters to the physical difference which form." Actually is not the foundation of the water in it, you just sit in the middle of younger kind of teaching we create and there are hear ove
+
+Zen is nothing in the morning. The true many m e ft put asked for t h e progrem evernty. This mind is not so rather t h e r e. Before we interested in the future, for himself bad afternoon, true zazen: Suzuki-origin sutra were hopeing: "from ail there is also true the east. It must only be aware fo
 ```

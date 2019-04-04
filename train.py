@@ -18,7 +18,7 @@ for filename in os.listdir(CONSTANTS['TRAIN_DIRECTORY']):
         fileContents.append(f.read())
 
 # Train neural net
-textgen.train_on_texts(fileContents, temperature=[0.2, 0.2, 1.0, 1.0], new_model = False, batch_size = 4096, num_epochs = 4, gen_epochs = 1, multi_gpu = False)
+textgen.train_on_texts(fileContents, interactive=True, top_n=5, temperature=[0.2, 0.2, 1.0, 1.0], batch_size = 4096, num_epochs = 50, gen_epochs = 10, multi_gpu = False)
 
 # Generate output in the console
 textgen.generate()
